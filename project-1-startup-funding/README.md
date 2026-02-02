@@ -42,3 +42,9 @@ This project focuses on using descriptive statistics to understand the true natu
 ## Learning Outcome
 This project is intentionally focused on *understanding data behavior* rather than building predictive models.
 The goal is to develop intuition that translates directly to interviews and real-world analytics work.
+
+---
+
+## Dataset Source
+The dataset used in this project was obtained from a public GitHub repository that aggregates Indian startup funding information from open sources.
+It is used here strictly for educational and analytical purposes.
